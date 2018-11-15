@@ -1,0 +1,126 @@
+Q: Can you tell me about yourself? 
+
+Who AM I?
+Expertice
+why i'm here
+
+-I'm at my last semester as a mechatronic engineer student. I choose these carrer because i like the idea of having several points of view to resolve a problem and i applied at ibm as an intern for this matter too, 
+	ibm has various areas that i could develop myself into and i wanted that chance. 
+-I started my work here as a manufacturer helper, but with time, i asked for an opportunity in web development while doing my current job and i was granted that option, i didn't knew much so i was given one month 
+	to learn the languages needed for the project smart incident tracker and i began to code. 
+- As i have been learning the basics and finished the project, i feel ready to give another step and learn from a full developing team how it is to work in this field and understand the professional ways in how to
+	code.	
+
+
+
+Q:  What is your greatest strength?
+
+A: I'm very wary of my work. I get my work done in time even if i have to take it home, i like to make sure that goes accordingly to the needs of the user and i don't mind having to learn new thing in order to execute it.
+like recently have started working on a 3d model viewer for the 3d Laboratory in power systems, even though i could use python to develop my software i chose to use the framework nodejs with the module express to work with it,
+this lead to having to take some of the work home in order to achieve completition time, but i don't mind at all, and i been having fun doing it.
+
+
+
+
+
+Q: What is your greatest weakness?
+
+A: Sometimes i migth be a little proud to show that i do not master a certain topic, so i try to not ask for help at least that i give up or i have gathered certain knowledge to show that i know about the topic, this migth lead 
+to work on things a little more time that it needs to. But recently i have been asking more about things that are easy but migth take some time searching for an answer.
+
+
+
+
+Q: Why should we hire you?
+	
+A: Because I believe that my interest in learning and applying what i have learned could be of help to the team. I like to improve myself so i'm very flexible with the work that i can output and i don't mind tackling new experiences 
+   to help a co-worker if needed. 
+   My ease to see from the user's perspective of how a service migth interact with him, along with my initiative could help bring some new ideas that works for both ends of the work.
+
+
+
+
+Q: What are your salary expectations?
+
+A: To ve relatable to the amount of great work that i do, if i'm doing more than my part and is good, to be given a salary equal to that type of work.
+
+
+
+Q: Why do you want this job?
+
+A: I want to learn the best practices from professionals in order to improve my coding 
+ 
+
+
+
+Q: Why are you leaving or why have you left your job?
+
+A: I came to search for a job in MLS because the person in charge of software developing have rencently left power systems and went to CIO, so i don't have a profesional to tell me
+if what i'm doing is wrong or correct and want to improve myself.
+
+
+
+
+Q: How do you handle stress and pressure?
+
+A: I like to be pressured to work hard, it makes me feel motivated to have a incoming deadline and beign sure that i will find a way to finish it before time, maybe by arraging times taking priorities first.
+Or if i'm under stress, trying to ask of a hint from my coworkers, maybe they have passed for a similar situation and know an easier way of doing things.
+
+
+
+Q: Describe a difficult work situation or project and how
+	
+A: One time i had a classmate that wasn't very profficent in the area that we had the task, so in order to finish in time, after i did my part, i went and helped him to with its part, reviewing it and telling him
+around where to check in order for him to see the error without me telling him directly. This way, the both of us knew what we were doing.
+
+
+
+
+Q: What are your goals for the future?
+
+A: I would like to pursue a masters degree, i haven't decided in wich because each lapse of time have been something different, but i plan on taking every masters that i have 
+think of and choose from there accordingly to its advantages and proficiency
+
+
+
+Q: Do You Have Any Questions?
+
+A:
+What do you expect me to accomplish in the first 90 days?
+How would i contribute to this job?
+What can you tell me about the team work?
+
+
+
+
+Q: How did you learn about the opening?
+
+A: As i was emerging myself into web developing, my friend cesar told me about the vacant, and i was eager to learn more profesionally about the norms and practices that web developing has.
+
+
+
+
+Q: What do you consider to be your biggest professional achievement?"
+
+A: Launching the smart incident tracker web application that helps the manufacturing team but more importantly the new recruits that come and see the most relevant results.
+
+
+
+
+Q: What kind of work environment do you like best?
+
+A: where there is a respectful enviorenment and the employees can lear from each other .
+
+
+
+
+Q: Tell me how you think other people would describe you.
+
+A: I think they would describe me as reliable, because when i say that i will do something i do it.
+
+
+
+
+Q: What can we expect from you in your first three months?
+
+A: To work hard in order to not be a drawback for the team, to learn what i need to learn, to listen to the recommendations and instructions given by my co-workers.

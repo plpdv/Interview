@@ -1,0 +1,65 @@
+-----------------------------------------Software Dev-----------------------------------------------
+Software development is the process of designing, programming, documenting, testing, and bug fixing 
+involved in creating and maintaining applications, frameworks, or other software components.
+
+
+##21-10-2018##
+-----------------------------------------AGILE-------------------------------------------------------
+Agile Isn't:
+-Methodology
+-Specific Way Of Developing Software
+-Framework or Process
+
+AGILE IS A SET OF VALUES (guide us), PRINCIPLES (how do we work) and PRACTICES (Implementation)
+
+They are about giving us the ability to make a good decision.
+
+Conclusion: Making each decision based on the principles and values that the team has decided to follow.
+
+How do i get better?
+measure the process
+
+How do you implement agile here?, do you have other frameworks?
+
+-------------------------------------------Scrum------------------------------------------------------
+Scrum is a process that apllies good practices to work as a team and get the best results. 
+
+Product owner (Selects Features) - Scrum Master (Project progress smoothly and every member has the tools 
+necessary and mnitores the work being done)
+
+Release planing.
+1- Product backlog or Whishlist of the user. 
+	Select the features
+
+2- Converts to Release Backlog, where you lknow the features that make it into final release,
+   and give them completition time.
+
+3- Sprint. Shor duration goals in order to manage time.
+
+4- Burndown chart. Day by day chart that sees amount of work on each sprint
+	rate of productivity
+
+5- Daily scrum. List work completed since last meeting, as well as obstacles
+
+6- Sprint retroespective.
+
+In Sprint planning, the Product Owner presents the goal of the sprint and discusses the high priority product backlog items. 
+The Delivery team then chooses the amount of work for the next sprint.
+
+
+Do you assign the job accordingly to the person strengths?
+
+What happens if you are invested on a feature and is no longer needed?
+
+
+--------------------------------------------------XP--------------------------------------------------
+Extreme programming: advocates frequent "releases" in short development cycles.
+
+-----------------------------------------------Pipeline----------------------------------------------
+Improves system performance
+
+Consists of a chain of processing elements, arranged so that the output of each is the input of the next
+
+----------------------------------------------Bubble Sort---------------------------------------------
+
+Checks every element of the list with the next value, and acomodates them acordingly to its value
